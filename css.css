@@ -1,4 +1,4 @@
-h1{
+h2{
   color: red;
  font-family: monospace;
 }
@@ -17,4 +17,12 @@ width: 70%;
 }
 *{
   font-family: monospace;
+}
+#cabezera{
+  text-align: center;
+  padding-bottom: 50px;
+  font-size: 80;
+  color: blue;
+  border-color: black;
+
 }
