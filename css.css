@@ -1,5 +1,20 @@
 h1{
-  color: green;
- text-align: center;
+  color: red;
  font-family: monospace;
+}
+p{
+  color: grey;
+  font-size: 30px;
+}
+#conteiner{
+  text-align: center;
+}
+#form{
+margin-left: 180px;
+padding: 50px;
+border: 3px solid deeppink;
+width: 70%;
+}
+*{
+  font-family: monospace;
 }
